@@ -21,6 +21,7 @@ Zainstaluj bibliotekę OpenAI:
 ```bash
 pip install openai
 ```
+w pliku `main.py` w linii 6 `client = OpenAI(api_key="place on API KEY!!!")` wstaw swój Api Key
 
 Zainstaluj bibliotekę Requests:
 ```bash
@@ -52,3 +53,4 @@ Install the Requests library:
 ```bash
 pip install requests
 ```
+in the file `main.py` on line 6 `client = OpenAI(api_key="place on API KEY!!!")` insert your API Key
