@@ -8,7 +8,8 @@ Ten projekt łączy się z API OpenAI, aby przetworzyć tekst artykułu na HTML,
 - `article.txt`: Plik tekstowy z treścią artykułu.
 - `artykul.html`: Wygenerowany plik HTML z kodem przetworzonym przez OpenAI.
 - `szablon.html`: Szablon wykorzystwany przy tworzeniu podglądu artykułu
-- `podglad.html`: podglad artyklu wraz z wygenerowanymi obrazkami:
+- `podglad.html`: podglad artyklu wraz z wygenerowanymi obrazkami
+- `image_1` i `image_2`: wygenerowane obrazki
   
 ## Wymagania
 - Python 3.x
@@ -35,6 +36,7 @@ This project connects to the OpenAI API to process an article's text into HTML, 
 - `artykul.html`: The generated HTML file processed by OpenAI.
 - `szablon.html`: The template used for creating the article preview.
 - `podglad.html`:A preview of the article along with the generated images.
+- - `image_1` i `image_2`: generated images.
 
 ## Requirements
 - Python 3.x
